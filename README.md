@@ -150,7 +150,7 @@ EDA SQL electoral bonddata
 electoralbonddata_database.sql 
 Final_database_data.ipynb
 Queries.pdf
-queries.sql
+electoral_bonddata_database.sql
 README.md
 
 ```
