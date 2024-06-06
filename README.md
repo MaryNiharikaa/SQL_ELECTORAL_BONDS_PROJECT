@@ -147,7 +147,7 @@ EDA SQL electoral bonddata
         Final Schema.svg
         README.md
         Schema.xlsx
-electoralbonddata_database.sql 
+Electoral_data_querries.sql
 Final_database_data.ipynb
 Queries.pdf
 electoral_bonddata_database.sql
